@@ -44,3 +44,17 @@
 - Bar plots for sales distribution
 - Count plots for demographic analysis
 - Category-wise revenue comparison
+
+## 💡 Why This Project Matters
+This project demonstrates:
+- Strong data cleaning & preprocessing skills
+- Ability to extract business insights from raw data
+- Hands-on experience with data visualization tools
+- Practical understanding of real-world sales analytics
+## 📌 Future Improvements
+- Build an interactive dashboard using Power BI / Tableau
+- Apply machine learning models for sales prediction
+- Automate reporting
+## 🙌 Author
+Lucky Aswal
+Aspiring Data Analyst | Python | SQL | Data Visualization
